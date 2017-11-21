@@ -1,1 +1,1 @@
-readme for GIT test
+This is readme file for GIT test.
